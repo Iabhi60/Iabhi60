@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React**
 - 📫 Reach me at: **kumaraviral60@gmail.com**
-- 🌐 Portfolio: [Abhi60-portfolio.vercel.app](https://aviralkumarportfolio.vercel.app)
+- 🌐 Portfolio: [PLZ Click](https://Abhi60-portfolio.vercel.app)
 - 💬 Chat with me: [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?logo=whatsapp)](https://wa.me/917880570474)
 
 ---
